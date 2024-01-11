@@ -1,3 +1,0 @@
-hi 
-This is my first day in devops tutorial.
-this is my second day in devops tutorial.
